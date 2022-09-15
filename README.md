@@ -13,3 +13,5 @@ You need an Infura API key, so go get one at www.infura.io, then create a ```.en
 Then, 
 
 ```node index.js```. 
+
+LFG
